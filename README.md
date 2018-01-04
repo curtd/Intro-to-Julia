@@ -3,6 +3,7 @@
 ## How to Install Julia
 Precompiled binaries for Windows, OS X, and Linux are available at https://julialang.org/downloads/. 
 
+### For OS X
 Usually your Julia installation is placed in /Applications/Julia-0.6.app. In this case, add the following to your ~/.bash_profile in OS X
 ```
     export PATH="/Applications/Julia-0.6.app/Contents/Resources/julia/bin/:${PATH}"
