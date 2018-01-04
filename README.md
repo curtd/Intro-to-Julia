@@ -24,7 +24,7 @@ Julia will integrate the necessary files into Jupyter to allow you to run Julia 
     jupyter notebook
 ```
 
-A browser window should open up listing the files/folders in your home directory. To create a new Julia notebook, click on "New->Julia 0.*.*" corresponding to your version number. For more information and troubleshooting, visit [https://github.com/JuliaLang/IJulia.jl]. 
+A browser window should open up listing the files/folders in your home directory. To create a new Julia notebook, click on "New->Julia 0.\*.\*" corresponding to your version number. For more information and troubleshooting, visit [https://github.com/JuliaLang/IJulia.jl]. 
 
 ## Jupyter Notebook Tutorial
 More information (albeit not complete) over in ``Julia Tutorial.ipynb``
