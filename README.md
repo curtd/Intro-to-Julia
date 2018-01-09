@@ -18,6 +18,7 @@ Open your Julia REPL, then type
 ```
     ENV["JUPYTER"] = "location/to/jupyter/binary"
     Pkg.add("IJulia")
+    using IJulia
 ```
 
 Julia will integrate the necessary files into Jupyter to allow you to run Julia notebooks. When this process is done, from the command line, enter
